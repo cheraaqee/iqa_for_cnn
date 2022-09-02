@@ -1,0 +1,103 @@
+\begin{thebibliography}{10}
+
+\bibitem{cisco}
+{CISCO}, ``Cisco annual internet report.''
+  \url{https://www.cisco.com/c/en/us/solutions/executive-perspectives/annual-internet-report/index.html},
+  2022.
+\newblock Accessed: 2022-July-15.
+
+\bibitem{goodfellow2016deep}
+I.~Goodfellow, Y.~Bengio, and A.~Courville, {\em Deep learning}.
+\newblock MIT press, 2016.
+
+\bibitem{allen2012manual}
+E.~Allen and S.~Triantaphillidou, {\em The manual of photography}.
+\newblock CRC Press, 2012.
+
+\bibitem{chandler2013seven}
+D.~M. Chandler, ``Seven challenges in image quality assessment: past, present,
+  and future research,'' {\em ISRN Signal Processing}, vol.~2013, 2013.
+
+\bibitem{stevens1946theory}
+S.~S. Stevens, ``On the theory of scales of measurement,'' {\em Science},
+  vol.~103, no.~2684, pp.~677--680, 1946.
+
+\bibitem{seshadrinathan2011automatic}
+K.~Seshadrinathan and A.~C. Bovik, ``Automatic prediction of perceptual quality
+  of multimedia signals—a survey,'' {\em Multimedia Tools and Applications},
+  vol.~51, no.~1, pp.~163--186, 2011.
+
+\bibitem{ye2013document}
+P.~Ye and D.~Doermann, ``Document image quality assessment: A brief survey,''
+  in {\em 2013 12th International Conference on Document Analysis and
+  Recognition}, pp.~723--727, IEEE, 2013.
+
+\bibitem{fry2018bridging}
+E.~W. Fry, S.~Triantaphillidou, R.~E. Jacobson, J.~R. Jarvis, and R.~B. Jenkin,
+  ``Bridging the gap between imaging performance and image quality measures,''
+  {\em Electronic Imaging}, vol.~2018, no.~12, pp.~231--1, 2018.
+
+\bibitem{zhai2020perceptual}
+G.~Zhai and X.~Min, ``Perceptual image quality assessment: a survey,'' {\em
+  Science China Information Sciences}, vol.~63, no.~11, pp.~1--52, 2020.
+
+\bibitem{kang2014convolutional}
+L.~Kang, P.~Ye, Y.~Li, and D.~Doermann, ``Convolutional neural networks for
+  no-reference image quality assessment,'' in {\em Proceedings of the IEEE
+  conference on computer vision and pattern recognition}, pp.~1733--1740, 2014.
+
+\bibitem{wang2009mean}
+Z.~Wang and A.~C. Bovik, ``Mean squared error: Love it or leave it? a new look
+  at signal fidelity measures,'' {\em IEEE signal processing magazine},
+  vol.~26, no.~1, pp.~98--117, 2009.
+
+\bibitem{wang2002universal}
+Z.~Wang and A.~C. Bovik, ``A universal image quality index,'' {\em IEEE signal
+  processing letters}, vol.~9, no.~3, pp.~81--84, 2002.
+
+\bibitem{wang2004image}
+Z.~Wang, A.~C. Bovik, H.~R. Sheikh, and E.~P. Simoncelli, ``Image quality
+  assessment: from error visibility to structural similarity,'' {\em IEEE
+  transactions on image processing}, vol.~13, no.~4, pp.~600--612, 2004.
+
+\bibitem{chen2006edge}
+G.-H. Chen, C.-L. Yang, L.-M. Po, and S.-L. Xie, ``Edge-based structural
+  similarity for image quality assessment,'' in {\em 2006 IEEE International
+  Conference on Acoustics Speech and Signal Processing Proceedings}, vol.~2,
+  pp.~II--II, IEEE, 2006.
+
+\bibitem{Xue2014}
+W.~Xue, L.~Zhang, X.~Mou, and A.~C. Bovik, ``{Gradient magnitude similarity
+  deviation: A highly efficient perceptual image quality index},'' {\em IEEE
+  Transactions on Image Processing}, vol.~23, no.~2, pp.~668--695, 2014.
+
+\bibitem{moorthy2011blind}
+A.~K. Moorthy and A.~C. Bovik, ``Blind image quality assessment: From natural
+  scene statistics to perceptual quality,'' {\em IEEE transactions on Image
+  Processing}, vol.~20, no.~12, pp.~3350--3364, 2011.
+
+\bibitem{sheikh2006image}
+H.~R. Sheikh and A.~C. Bovik, ``Image information and visual quality,'' {\em
+  IEEE Transactions on image processing}, vol.~15, no.~2, pp.~430--444, 2006.
+
+\bibitem{yang2019survey}
+X.~Yang, F.~Li, and H.~Liu, ``A survey of dnn methods for blind image quality
+  assessment,'' {\em IEEE Access}, vol.~7, pp.~123788--123806, 2019.
+
+\bibitem{ye2012unsupervised}
+P.~Ye, J.~Kumar, L.~Kang, and D.~Doermann, ``Unsupervised feature learning
+  framework for no-reference image quality assessment,'' in {\em 2012 IEEE
+  conference on computer vision and pattern recognition}, pp.~1098--1105, IEEE,
+  2012.
+
+\bibitem{kim2017deep}
+J.~Kim, H.~Zeng, D.~Ghadiyaram, S.~Lee, L.~Zhang, and A.~C. Bovik, ``Deep
+  convolutional neural models for picture-quality prediction: Challenges and
+  solutions to data-driven image quality assessment,'' {\em IEEE Signal
+  processing magazine}, vol.~34, no.~6, pp.~130--141, 2017.
+
+\bibitem{sheikh2005live}
+H.~Sheikh, ``Live image quality assessment database release 2,'' {\em
+  http://live. ece. utexas. edu/research/quality}, 2005.
+
+\end{thebibliography}
