@@ -96,6 +96,11 @@ J.~Kim, H.~Zeng, D.~Ghadiyaram, S.~Lee, L.~Zhang, and A.~C. Bovik, ``Deep
   solutions to data-driven image quality assessment,'' {\em IEEE Signal
   processing magazine}, vol.~34, no.~6, pp.~130--141, 2017.
 
+\bibitem{duan2020video}
+L.~Duan, J.~Liu, W.~Yang, T.~Huang, and W.~Gao, ``Video coding for machines: A
+  paradigm of collaborative compression and intelligent analytics,'' {\em IEEE
+  Transactions on Image Processing}, vol.~29, pp.~8680--8695, 2020.
+
 \bibitem{sheikh2005live}
 H.~Sheikh, ``Live image quality assessment database release 2,'' {\em
   http://live. ece. utexas. edu/research/quality}, 2005.
