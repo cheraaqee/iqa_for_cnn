@@ -105,4 +105,30 @@ L.~Duan, J.~Liu, W.~Yang, T.~Huang, and W.~Gao, ``Video coding for machines: A
 H.~Sheikh, ``Live image quality assessment database release 2,'' {\em
   http://live. ece. utexas. edu/research/quality}, 2005.
 
+\bibitem{kumar2022surprising}
+M.~Kumar, N.~Houlsby, N.~Kalchbrenner, and E.~D. Cubuk, ``On the surprising
+  tradeoff between imagenet accuracy and perceptual similarity,'' {\em arXiv
+  preprint arXiv:2203.04946}, 2022.
+
+\bibitem{blau2018perception}
+Y.~Blau and T.~Michaeli, ``The perception-distortion tradeoff,'' in {\em
+  Proceedings of the IEEE conference on computer vision and pattern
+  recognition}, pp.~6228--6237, 2018.
+
+\bibitem{berardino2017eigen}
+A.~Berardino, V.~Laparra, J.~Ball{\'e}, and E.~Simoncelli, ``Eigen-distortions
+  of hierarchical representations,'' {\em Advances in neural information
+  processing systems}, vol.~30, 2017.
+
+\bibitem{zhang2018unreasonable}
+R.~Zhang, P.~Isola, A.~A. Efros, E.~Shechtman, and O.~Wang, ``The unreasonable
+  effectiveness of deep features as a perceptual metric,'' in {\em Proceedings
+  of the IEEE conference on computer vision and pattern recognition},
+  pp.~586--595, 2018.
+
+\bibitem{amir2021understanding}
+D.~Amir and Y.~Weiss, ``Understanding and simplifying perceptual distances,''
+  in {\em Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, pp.~12226--12235, 2021.
+
 \end{thebibliography}
